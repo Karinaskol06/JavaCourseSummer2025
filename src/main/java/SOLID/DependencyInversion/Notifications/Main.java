@@ -12,5 +12,6 @@ public class Main {
         service2.sendNotification("Tralalero Tralala");
 
         System.out.println("Some new text for learning git!");
+        System.out.println("Other new text for learning git!");
     }
 }
