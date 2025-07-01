@@ -11,6 +11,6 @@ public class Main {
         NotificationService service2 = new NotificationService(notifier2);
         service2.sendNotification("Tralalero Tralala");
 
-        System.out.println("Some new text for learning git");
+        System.out.println("Some new text for learning git!");
     }
 }
